@@ -1,5 +1,5 @@
 # Python_Exercises
- This repo contains exercises and assignments that covers most of the basics in python programming
+ This repo contains exercises, assignments and applications that covers most of the basics in python programming
  such as:
 - Python Source Code
 - Python Native Types
