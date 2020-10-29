@@ -1,36 +1,36 @@
 # Python_Exercises
  This repo contains exercises and assignments that covers most of the basics in python programming
  such as:
-	- Python Source Code
-	- Python Native Types
-		- Boolean Types
-		- Numeric Types
-	- Sequence Types
-		- Strings
-	- Conditional Statements
-		- If...Elif...else
-		- Truth Value
-	- Sequence type Cont.:
-		- List
-	- Looping Statements:
-		- For loop
-		- While loop
-	- Sorting
-	- Sequence Types
-		- Tuples
-	- Mapping Types
-		- Dict
-	- Del Keyword
-	- Files Operations
-	- Python Utilities
-		- Miscellaneous operating
-		- system interfaces
-		- Common pathname
-		- manipulations
-		- High-level file operations
-	- Regular Expressions
-		- Introduction
-		- Python Regex
-		- Related Topics
-	- Python GUI “PySide2”
-		- Basic functionalities	
+- Python Source Code
+- Python Native Types
+	- Boolean Types
+	- Numeric Types
+- Sequence Types
+	- Strings
+- Conditional Statements
+	- If...Elif...else
+	- Truth Value
+- Sequence type Cont.:
+	- List
+- Looping Statements:
+	- For loop
+	- While loop
+- Sorting
+- Sequence Types
+	- Tuples
+- Mapping Types
+	- Dict
+- Del Keyword
+- Files Operations
+- Python Utilities
+	- Miscellaneous operating
+	- system interfaces
+	- Common pathname
+	- manipulations
+	- High-level file operations
+- Regular Expressions
+	- Introduction
+	- Python Regex
+	- Related Topics
+- Python GUI “PySide2”
+	- Basic functionalities	
