@@ -1,0 +1,32 @@
+This script is responisble for creating a folder with empty (.c and .h) files.
+These files are to be filled with device driver codes.
+ 
+  Steps:
+
+		1) First enter name of the driver 
+		
+		2) Enter 1 or 2 to place the driver folder in the current working directory 
+			 or a folder named COTS
+		
+		3) The user is requested to enter the abstraction layer (MCAL or HAL)
+			 Note: MCAL stands for microcontroller abstraction layer
+						HAL stands for hardware abstraction layer
+
+		4) It generated 5 files if the driver is in the MCAL
+				- name_program.c
+				- name_register.h
+				- name_interface.h
+				- name_congig.h
+				- name_private.h
+			
+			It generated 4 files if the driver is in HAL
+				- name_program.c
+				- name_interface.h
+				- name_congig.h
+				- name_private.h
+		
+		 5) If the driver is in the MCAL it asks you which microcontroller
+				folder you want to put it into (for me i have two option: AVR, ARM).
+				
+Note:
+	- All the paths can be modified by the user to suite his needs.

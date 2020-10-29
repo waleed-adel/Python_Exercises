@@ -1,0 +1,30 @@
+This script is a phone book application.
+
+ Steps:
+		
+		1) You will be presented with 5 options:
+			  1- List Contacts
+				2- Add Contact
+				3- Remove Contact
+				4- Search
+				5- Exit
+			choose a number from [1-5] corrosponding to the function you need.
+		
+			1.1) List Contacts  : lists all the available/saved contacts.
+			1.2) Add Contact    : you will be asked to enter the following:
+														- name. 
+														- number. 
+														- email.
+			1.3) Remove Contact : you can remove contact either by entering either of the following:
+														1- name. 
+														2- number. 
+														3- email.
+														Choose from [1-3] then enter the data.
+			1.4) Search					: you can search for a contact either by choosing one of the following:
+														1- name. 
+														2- number. 
+														3- email.
+														Choose from [1-3] then enter the data.
+			1.5) Exit           : Terminates the application.
+			
+		2) All the data entered is saved in text file called "PhoneBook.txt"
