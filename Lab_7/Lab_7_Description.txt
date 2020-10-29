@@ -1,0 +1,4 @@
+- Please download Regex_lab.py from the following link:
+	link: https://drive.google.com/open?id=13nKDNoRBeA4Il8U9frZPzaEerIAhTDkT
+
+- Complete the script Regex_lab.py

@@ -1,0 +1,4 @@
+- Please download the tubles_lab from the following link:
+	link: https://drive.google.com/open?id=1PkH6f7rfmXesR2Q6yYljGOLmJ5tB1odb
+
+- Complete the script tuples_lab.py 

@@ -1,0 +1,6 @@
+- Please download the lab from the following link:
+  link: https://drive.google.com/open?id=1OCJ3u-geG3JZAoHsyb4GwqEmNJvH8ZAf
+
+- Complete the script string1.py 
+
+- Complete the script string2.py 

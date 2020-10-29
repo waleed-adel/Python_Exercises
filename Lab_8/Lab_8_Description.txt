@@ -1,0 +1,9 @@
+1) Create a GUI tool that contain the following:
+	- Push Button “Print”
+	- LineEdit
+	- LableText “Print Text Lab”
+	- Lable Text “Enter the text then press Print”
+
+2) The user will write any text in the LineEdit object and then press Print button.
+
+3) The text will appear on the CMD window and then the LineEdit object will be cleared.

@@ -1,0 +1,9 @@
+- Please download list_lab.py from the following link:
+	link: https://drive.google.com/open?id=1jQQEBjlSQwNDXpwUPH70JnFsXYevy7SA
+
+- Complete the script list_lab.py
+
+- Please download list2.py from the following link:
+	link: https://drive.google.com/open?id=18m4nSMoxdvbxzJUkSr5VYx7nNmHUiPJM
+
+- Complete the script list2.py 
